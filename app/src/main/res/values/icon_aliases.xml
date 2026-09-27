@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="mipmap" name="ic_launcher">@mipmap/studio_icon</item>
+    <item type="mipmap" name="ic_launcher_round">@mipmap/studio_icon</item>
+</resources>
+

@@ -1,0 +1,8 @@
+Mosslight Studio includes runtime components from AndroidX/Jetpack,
+Gson, Error Prone annotations, Guava ListenableFuture, Okio, Kotlin,
+kotlinx.coroutines, kotlinx.serialization, JetBrains annotations, and
+JSpecify. These components are licensed under the Apache License 2.0.
+
+Exact resolved module coordinates and primary project links are listed in
+docs/THIRD_PARTY_NOTICES.md in the corresponding source distribution.
+
